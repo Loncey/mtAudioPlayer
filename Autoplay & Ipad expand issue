@@ -1,0 +1,5 @@
+Hi,
+Im wondering if anyone has worked on mtAudioPlayer and was able to have autoplay working on page load?
+Also if anyone sorted the glitch out when the player is playing on an Ipad. 
+When the player collapse after pressing play you can't expand it anymore. The only way to work it is to refresh the page again.
+
